@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(145 125 98);
+}
+.container{
+    background-color: rgb(171 180 177);
+    height: 250px;
+    width: 550px;
+    border: 2px solid blue;
+    padding-left: 120px;
+    padding-right: 50px;
+    margin:auto;
+    margin-top: 60px;
+    box-shadow: 15px 15px 20px blue;
+}
+h1{
+    margin-left: 560px;
+    margin-top: 80px;
+    font-size: 55px;
+    font-family:'Times New Roman', Times, serif;
+}
+.heading{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#btn{
+    margin-top: 20px;
+    margin-left: 70px;
+    width: 120px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+#userIn {
+    height: 30px;
+    font-weight: bold;
+}
+#selectChoice{
+    height: 31px;
+    font-weight: bold;
+}
+#btn:hover{
+    background-color: rgb(218, 94, 66);
+}
+#result{
+    color: #b80707;
+    display: block;
+    margin-top: 30px;
+    font-size:20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
